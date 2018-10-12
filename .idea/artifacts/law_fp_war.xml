@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="law_fp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="law_fp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="law_fp:war exploded" />
+    </root>
+  </artifact>
+</component>
